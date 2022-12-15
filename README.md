@@ -4,7 +4,7 @@
 
 Follow the setup instructions in `showcase.ipynb` to install the necessary packages.
 
-Download the data from https://vanderbilt.box.com/s/ljzx9zjcrlx1re9bfh331nl743k1shxz
+Download the data from https://vanderbilt.box.com/s/ljzx9zjcrlx1re9bfh331nl743k1shxz and put it in this directory.
 
 ## Relevant Code
 
