@@ -4,17 +4,17 @@
 
 Create and activate the conda environment using:
 
-*conda env create -f environment.yml*
+`conda env create -f environment.yml`
 
-*conda activate aml*
+`conda activate aml`
 
 Attach the environment to Jupyter using:
 
-*python -m ipykernel install --user --name=aml*
+`python -m ipykernel install --user --name=aml`
 
 Open this notebook using the command
 
-*jupyter notebook*
+`jupyter notebook`
 
 inside your activated aml environment (if this command does not work, use pip install notebook.)
 
