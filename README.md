@@ -2,7 +2,23 @@
 
 ## Setup
 
-Follow the setup instructions in `showcase.ipynb` to install the necessary packages.
+Create and activate the conda environment using:
+
+*conda env create -f environment.yml*
+
+*conda activate aml*
+
+Attach the environment to Jupyter using:
+
+*python -m ipykernel install --user --name=aml*
+
+Open this notebook using the command
+
+*jupyter notebook*
+
+inside your activated aml environment (if this command does not work, use pip install notebook.)
+
+Go to Kernel -> change kernel -> aml at the top.
 
 Download the data from https://vanderbilt.box.com/s/ljzx9zjcrlx1re9bfh331nl743k1shxz and put it in this directory.
 
